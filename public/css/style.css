@@ -1,0 +1,7 @@
+.kuitansi {
+  width: 50px;
+  height: 60px;
+}
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
