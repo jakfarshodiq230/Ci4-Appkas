@@ -63,4 +63,4 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 
-![Alt text](https://github.com/jakfarshodiq230/public/app-assets/images/gallery/12.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/jakfarshodiq230/Ci4app-kas/public/app-assets/images/gallery/12.jpg?raw=true "Optional Title")
