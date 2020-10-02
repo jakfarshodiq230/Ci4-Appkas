@@ -64,3 +64,6 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - xml (enabled by default - don't turn it off)
 
 (https://github.com/jakfarshodiq230/Ci4-Appkas/public/app-assets/images/gallery/12.jpg?)
+<div align="center">
+    <img src="/public/app-assets/images/gallery/12.jpg" width="400px"</img> 
+</div>
