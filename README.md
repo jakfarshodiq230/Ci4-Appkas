@@ -63,7 +63,10 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 
-(https://github.com/jakfarshodiq230/Ci4-Appkas/public/app-assets/images/gallery/12.jpg?)
+
 <div align="center">
     <img src="/public/app-assets/images/gallery/12.jpg" width="400px"</img> 
+    <img src="/public/app-assets/images/gallery/P_2.jpg" width="400px"</img>
+    <img src="/public/app-assets/images/gallery/P_3.jpg" width="400px"</img>
+    <img src="/public/app-assets/images/gallery/P_4.jpg" width="400px"</img>
 </div>
